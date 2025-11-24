@@ -28,7 +28,7 @@ I focus on building simple, functional web projects using **HTML & CSS**, and I 
 ### **Finance Manager**
 Simple web application for managing personal finances (HTML + CSS).  
 The interface is in Russian as the project was completed during my studies in Russia.  
-🔗 GitHub: https://github.com/mohamedms-max/finance-manager
+🔗 GitHub: https://github.com/mohmedms-max/finance-manager
 
 *(More projects coming soon…)*
 
