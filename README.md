@@ -37,7 +37,7 @@ The interface is in Russian as the project was completed during my studies in Ru
 ## 📫 Contact Me
 - 📧 Email: **mohamedms.codes@gmail.com**  
 - 💬 WhatsApp: **[Send Message](https://wa.me/79870695612)**  
-- 🔗 GitHub: **https://github.com/mohamedms-max**
+- 🔗 GitHub: **https://github.com/mohmedms-max**
 
 ---
 
